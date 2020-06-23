@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace IoTServerV2
+namespace IoTServerV2.src
 {
     using System;
     using System.Collections.Generic;
