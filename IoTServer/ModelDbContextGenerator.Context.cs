@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace IoTServerV2.src
+namespace IoTServerV2.IoTServer
 {
     using System;
     using System.Data.Entity;
